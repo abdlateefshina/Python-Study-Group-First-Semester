@@ -63,8 +63,6 @@ At this stage of my Python journey, I can:
 
 - LinkedIn: https://www.linkedin.com/in/abdlateef-shina-60a962423
 
----
-
-⭐ Thank you for visiting my repository!
+Thank you for visiting my repository!
 
 Feel free to explore my assignments and follow my learning journey as I continue building projects with Python.
